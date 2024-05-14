@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingHorizontal="20dp"
+    android:paddingTop="20dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnLayoutEx1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="@string/btn_Layout"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnButtonsEx2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="@string/btn_buttons"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnCalculator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="@string/btn_calculator"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnMatch3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="Match 3"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnPassingIntents"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="Passing Intents"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnMenus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="Menus"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/btnOpeningMaps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#52357C"
+        android:text="Opening Maps"
+        app:cornerRadius="20dp" />
+</LinearLayout>

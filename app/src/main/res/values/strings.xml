@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Main Activity</string>
+    <string name="btn_Layout">Layout Activity</string>
+    <string name="btn_buttons">Button Exercise</string>
+    <string name="btn_calculator">Calculator</string>
+    <string name="view_comments">View comments</string>
+    <string name="username">User</string>
+    <string name="user2">Dione</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</string>
+
+    <string name="divide">\\</string>
+    <string name="zero">0</string>
+</resources>
